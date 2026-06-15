@@ -2,7 +2,7 @@
 <p align="center"><strong>doing things. sometimes.</strong></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/UacnAFq8PhoAAAAC/nub-cat-nub.gif" alt="Nub Cat" width="220" />
+  <img src="nub-cat.gif" alt="Nub Cat" width="220" />
 </p>
 
 <p align="center">
