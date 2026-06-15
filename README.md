@@ -1,30 +1,30 @@
 <h1 align="center">Jonayed Shah Jesun</h1>
-<p align="center"><strong>Full-Time Designer &bull; Half-Time Full-Stack Developer &bull; Professional Cringe-Avoider</strong></p>
+<p align="center"><strong>doing things. sometimes.</strong></p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/UacnAFq8PhoAAAAC/nub-cat-nub.gif" alt="Nub Cat" width="220" />
+  <img src="https://media.tenor.com/UacnAFq8PhoAAAAC/nub-cat-nub.gif" alt="Nub Cat" width="220" />
 </p>
 
 <p align="center">
-  A designer who writes code (mainly to make sure developers don't ruin the spacing). I spend my time pushing pixels in Figma, rendering 3D assets, and occasionally writing full-stack code that actually works.
+  i press buttons and pixels happen.
 </p>
 
 ---
 
 ### Status Report
-* **Currently working on:** Multiple projects (mostly fighting with CSS layouts and Blender materials).
-* **Currently learning:** How to look busy when my code is building.
-* **Ask me about:** Literally anything except why the local server crashed.
-* **How to reach me:** Please don't (unless it's an invite to a Figma file or a good meme).
-* **My experiences:** I don't have the time to update my resume right now, but just trust me on this.
-* **Fun fact:** Fun.
+* **Currently working on:** keeping the local server from exploding.
+* **Currently learning:** absolutely nothing.
+* **Ask me about:** please don't.
+* **How to reach me:** please don't.
+* **My experiences:** none.
+* **Fun fact:** there is no fun fact.
 
 ---
 
-### Vague metrics of my productivity
+### Useless statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cord1ess&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=70a5fd" alt="Jonayed's GitHub Stats" height="180px" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cord1ess&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd" alt="Jonayed's Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cord1ess&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=70a5fd" alt="GitHub Stats" height="180px" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cord1ess&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd" alt="Top Languages" height="180px"/>
 </p>
 
 ---
